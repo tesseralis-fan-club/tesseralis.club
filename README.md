@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Tessarlis Fan Club Official Site
 </h1>
 
 This is the official fan club of @tesseralis, aka Nat Alison

@@ -8,7 +8,7 @@
   Gatsby's default starter
 </h1>
 
-This is a test repo I'm using to test the che-tsumi bot
+This is the official fan club of @tesseralis, aka Nat Alison
 
 ## 🚀 Quick start
 

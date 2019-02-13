@@ -10,7 +10,7 @@
 
 This is the official fan club of @tesseralis, aka Nat Alison.
 
-## 🚀 Quick start
+## Quick start
 
 1.  **Create a Gatsby site.**
 

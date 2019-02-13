@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Tessarlis Fan Club Official Site
+  Tesseralis Fan Club Official Site
 </h1>
 
 This is the official fan club of @tesseralis, aka Nat Alison.

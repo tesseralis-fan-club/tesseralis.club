@@ -8,4 +8,5 @@ Membership fees are $300/mo.
 
 ## Contributing
 
-You can't contribute. I control all.
+You can't contribute. I control everything.
+

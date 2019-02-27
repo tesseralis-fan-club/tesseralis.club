@@ -1,6 +1,6 @@
 # Tesseralis Fan Club Official Site
 
-This is the official fan club of [@tesseralis](https://tessera.li), aka Nat Alison.
+This is the official fan club of [@tesseralis](https://tessera.li), aka Nat Alison. Praise be unto me.
 
 ## Membership
 

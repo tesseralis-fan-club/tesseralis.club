@@ -10,3 +10,7 @@ Membership fees are $350/mo.
 
 You can't contribute. I control everything.
 
+## License
+
+"Nat Rules" licesnse.
+

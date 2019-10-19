@@ -8,7 +8,7 @@ Membership fees are $420/mo.
 
 ## Contributing
 
-You can't contribute. I control everything.
+You cannot contribute. I control everything.
 
 ## License
 

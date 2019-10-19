@@ -4,7 +4,7 @@ This is the official fan club of [@tesseralis](https://tessera.li), aka Nat Alis
 
 ## Membership
 
-Membership fees are $400/mo.
+Membership fees are $420/mo.
 
 ## Contributing
 

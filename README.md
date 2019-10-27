@@ -12,5 +12,4 @@ You cannot contribute. I control everything.
 
 ## License
 
-"Nat Rules" licesnse.
-
+"Nat Rules" [liscence](/LICENSE).

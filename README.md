@@ -13,3 +13,7 @@ You cannot contribute. I control everything.
 ## License
 
 "Nat Rules" [liscence](/LICENSE).
+
+## Issues
+
+See issue [here](/issues/9).

@@ -8,7 +8,11 @@ Membership fees are $420/mo.
 
 ## Contributing
 
-You cannot contribute. I control everything.
+To contribute, please complete the following tasks:
+
+1. slay the hydra
+2. step on 1000 lego bricks
+3. craft a 6000-word essay on how cool I am.
 
 ## License
 
@@ -16,4 +20,11 @@ You cannot contribute. I control everything.
 
 ## Issues
 
-See issue [here](/issues/9).
+See issue [here](/issues).
+
+## Credits
+
+* Designer - Nat Alison
+* Coder - Nat Alison
+* Project Manager - Nat Alison
+* Everything Else - Nat Alison
